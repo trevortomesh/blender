@@ -103,8 +103,6 @@ Properties (Properties are “named Game objects”).
 
 ```
 # Contributing
-<<<<<<< HEAD
-Send a pull request! Open an issue! Whatever you do -- do something! The BGE was too good to let die and Ketsji is too good to let stagnate! That's why we're here!
-=======
+
 Send a pull request! Open an issue! Whatever you do -- do something! The BGE was too good to let die and Ketsji is too good to let stagnate!
->>>>>>> 21d58b599dbbfb782b1bd28e63360d73635ba42c
+
