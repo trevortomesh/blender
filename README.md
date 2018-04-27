@@ -7,6 +7,9 @@ The Ketsji Game Engine is a fork of the Unchronia Project Blender Game Engine (U
 
 Ketsji is meant to be a stand-alone project seperate from both Blender and UPBGE which have both seeminfly ceased development on the game engine.
 
+Until a working build of Ketsji is available, current working builds of UPBGE can be found here:
+https://download.upbge.org/
+
 # Back to our Roots
 
 Ketsji was the original name of the Blender Game Engine -- and it's got a catchy name to it. We strive to return Ketsji to its roots as outlined in the original design document from the year 2000 -- albeit not slavishly:
@@ -105,4 +108,3 @@ Properties (Properties are “named Game objects”).
 # Contributing
 
 Send a pull request! Open an issue! Whatever you do -- do something! The BGE was too good to let die and Ketsji is too good to let stagnate!
-
